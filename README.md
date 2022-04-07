@@ -1,4 +1,4 @@
-Live Site : https://learning-website-react.netlify.app/
+Live Site : will be updated soon.
 
 1.This is a website where you can get popular courses which can improve your skills at the next level.
 
