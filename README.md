@@ -1,4 +1,4 @@
-Live Site : will be updated soon.
+Live Site : https://e-ggle.netlify.app/.
 
 1.This is a website where you can get popular courses which can improve your skills at the next level.
 
