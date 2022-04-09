@@ -1,0 +1,93 @@
+.team-member {
+	text-align: center;
+}
+.shek {
+	padding-left: 75px;
+}
+#subcode {
+	font-size: 24px;
+}
+.spac {
+	padding-left: 350px;
+}
+.spac1 {
+	padding-left: 368px;
+}
+.spac2 {
+	padding-left: 385px;
+}
+.spac3 {
+	padding-left: 360px;
+}
+.spac4 {
+	padding-left: 140px;
+}
+.spac5 {
+	padding-left: 370px;
+}
+.spa {
+	padding-left: 480px;
+}
+.spa1 {
+	padding-left: 280px;
+}
+.spa2 {
+	padding-left: 400px;
+}
+.spa3 {
+	padding-left: 170px;
+}
+.spa4 {
+	padding-left: 255px;
+}
+.spa5 {
+	padding-left: 385px;
+}
+#vr {
+	color: rgb(14, 7, 7);
+	padding: 80px;
+}
+.img-box {
+	height: 350px;
+	overflow: hidden;
+	border-radius: 3px;
+	position: relative;
+}
+.team-member img {
+	display: inline-block;
+	margin: 0 auto;
+	height: 350px;
+	border-radius: 3px;
+	object-fit: cover;
+	transition: all 0.5s ease-in-out;
+	cursor: progress;
+	position: relative;
+}
+.team-member p {
+	font-size: 14px;
+}
+.team-member:hover img {
+	transform: scale(1.1);
+	filter: brightness(0.6);
+}
+.hide-email {
+	position: absolute;
+	top: 120%;
+	left: 50%;
+	width: 100%;
+	font-size: 12px !important;
+	padding: 4px;
+	transform: translate(-50%, -50%);
+	color: #eeeeee;
+	background-color: #1d2a45;
+	border-bottom: 0.5px solid #fff;
+	transition: all 0.8s ease;
+	visibility: none;
+}
+.img-box:hover .hide-email {
+	top: 75%;
+	visibility: visible;
+}
+.team-member h6 {
+	font-weight: 600;
+}

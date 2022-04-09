@@ -1,0 +1,23 @@
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#ved {
+	padding-top: 45px;
+	margin-bottom: 50px;
+}
+#ab {
+	padding-top: 80px;
+	padding-left: 50px;
+	color: green;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}

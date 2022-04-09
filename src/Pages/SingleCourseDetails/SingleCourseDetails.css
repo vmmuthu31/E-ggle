@@ -1,0 +1,39 @@
+.singleCourse {
+  min-height: 80vh;
+  background-color: #f8d700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inside_container {
+  height: 60vh;
+  width: 80%;
+  background-color: #f5da2a;
+  border-radius: 10px;
+}
+.leftSide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.leftSide img {
+  width: 75%;
+  outline: 10px solid #1c2a44;
+  outline-offset: 1.5rem;
+}
+
+@media (max-width: 668px) {
+  .singleCourse {
+    min-height: 120vh;
+  }
+  .inside_container {
+    height: 110vh;
+  }
+  .leftSide {
+    margin-top: 30px;
+  }
+  .rightside {
+    margin-top: 40px;
+  }
+}
